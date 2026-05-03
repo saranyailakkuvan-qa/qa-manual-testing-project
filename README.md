@@ -15,6 +15,15 @@ QA Engineer with 2 years of experience in Manual & Automation Testing.
 - Test Cases
 - Bug Reports
 - Screenshots
+## 🧪 Test Execution (Zephyr)
 
+Test cases were executed using Zephyr in Jira.
+
+- Created Test Cycle
+- Executed test cases
+- Updated status (Pass/Fail)
+- Logged and linked defects
+
+Screenshots are attached in the Screenshots folder.
 ## 🎯 Goal
 To showcase real-time testing knowledge and improve QA skills.
