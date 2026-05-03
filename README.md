@@ -1,29 +1,80 @@
-# QA Manual Testing Project
+# ✈️ Airline Testing Project
 
-## 👩‍💻 About Me
-QA Engineer with 2 years of experience in Manual & Automation Testing.
+## 📌 Project Overview
+This project demonstrates end-to-end **Manual Testing** of an airline booking application.  
+The objective is to validate core functionalities and identify defects using real-time testing practices.
 
-## 🔧 Skills
-- Manual Testing
-- Selenium with Java
-- TestNG
-- Jira
-- API Testing (Postman)
+---
 
-## 📌 Project Includes
-- Test Scenarios
-- Test Cases
-- Bug Reports
-- Screenshots
-## 🧪 Test Execution (Zephyr)
+## 🔍 Modules Tested
+- ✈️ Flight Search  
+- 🧾 Booking Flow  
+- 💳 Payment  
+- 🔐 Login  
+- 🛄 Check-in  
 
-Test cases were executed using Zephyr in Jira.
+---
 
-- Created Test Cycle
-- Executed test cases
-- Updated status (Pass/Fail)
-- Logged and linked defects
+## 🧪 Test Artifacts
+- Test Scenarios  
+- Test Cases  
+- Test Execution Report  
+- Bug Reports  
+- Screenshots  
 
-Screenshots are attached in the Screenshots folder.
+---
+
+## ⚙️ Tools & Technologies
+- Jira  
+- Zephyr  
+- Manual Testing  
+- Selenium (Basics)  
+- TestNG  
+- Postman (API Testing)  
+
+---
+
+## 🧪 Test Execution (Zephyr in Jira)
+Test cases were executed using Zephyr plugin in Jira.
+
+- Created Test Cycle  
+- Executed all test cases  
+- Updated execution status (Pass/Fail)  
+- Logged and linked defects  
+
+📸 Screenshots are available in the `Screenshots` folder.
+
+---
+
+## 📊 Test Summary
+
+| Metric            | Count |
+|------------------|-------|
+| Total Test Cases | 5    |
+| Passed           | 4     |
+| Failed           | 1     |
+| Bugs Reported    | 1     |
+
+---
+
+## 🐞 Key Bugs Identified
+- Flight selection button not responding  
+- Booking flow navigation issue  
+
+---
+
+## 🎯 Key Learnings
+- Writing effective test cases  
+- Performing real-time test execution  
+- Reporting and tracking defects  
+- Understanding end-to-end QA workflow  
+
+---
+
 ## 🎯 Goal
-To showcase real-time testing knowledge and improve QA skills.
+To showcase practical knowledge in software testing and build a strong foundation for QA roles.
+
+---
+
+## 👩‍💻 Author
+**Saranya Devi**
